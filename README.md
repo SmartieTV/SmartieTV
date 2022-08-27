@@ -1,11 +1,17 @@
 <h1 align="center">👋, I'm Adrian Rhaese</h1>
-<h3 align="center">A passionate (young) developer from Germany.</h3>
+<h3 align="center">A passionate developer from Germany (still a beginner though)...</h3>
 
-- 🔭 I’m currently working on [Street Lightelligence](https://www.linkedin.com/company/street-lightelligence)
+- 🔭 I’m currently working on: [Street Lightelligence](https://www.linkedin.com/company/street-lightelligence)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **info@smartietv.de**
+- 👨‍💻 All of my projects are available at: [http://smrtv.de](http://smrtv.de)
+
+- 📫 How to reach me: **info@smartietv.de**
+
+- 📄 Know about my experiences: [https://www.linkedin.com/in/adrian-rhaese/](https://www.linkedin.com/in/adrian-rhaese/)
+
+- ⚡ Fun fact: **I love trial & error :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

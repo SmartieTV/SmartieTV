@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Adrian Rhaese</h1>
-<h3 align="center">A passionate developer from Germany (still a beginner though)...</h3>
+<h3 align="center">A passionate novice developer from Germany...</h3>
 
 - 🔭 I’m currently working on: [Street Lightelligence](https://www.linkedin.com/company/street-lightelligence)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/adrian-rhaese/](https://www.linkedin.com/in/adrian-rhaese/)
 
-- ⚡ Fun fact: **I love trial & error :)**
+- ⚡ Fun fact: **I love pizza Hawaii :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

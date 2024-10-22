@@ -1,9 +1,7 @@
-<h1 align="center">👋, I'm Adrian Rhaese</h1>
+<h1 align="center">👋, I'm Adrian</h1>
 <h3 align="center">A passionate novice developer from Germany...</h3>
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript**
-
-- 📫 How to reach me: **info@enviotech.de**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/adrian-rhaese/](https://www.linkedin.com/in/adrian-rhaese/)
 
